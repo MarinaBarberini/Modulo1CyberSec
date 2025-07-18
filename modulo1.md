@@ -6,7 +6,7 @@
 
 ---
 
-## 🖥️ 1. Rede Corporativa (corp_net - 10.10.10.0/24)
+## 1. Rede Corporativa (corp_net - 10.10.10.0/24)
 
 ### Inventário:
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛋️ 2. Rede de Infraestrutura (infra_net - 10.10.30.0/24)
+## 2. Rede de Infraestrutura (infra_net - 10.10.30.0/24)
 
 ### Inventário:
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 👥 3. Rede de Visitantes (guest_net - 10.10.50.0/24)
+## 3. Rede de Visitantes (guest_net - 10.10.50.0/24)
 
 ### Inventário:
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Plano de Ação 80/20
+## Plano de Ação 80/20
 
 | Prioridade | Ação                                                          | Impacto | Facilidade |
 | ---------- | ------------------------------------------------------------- | ------- | ---------- |
